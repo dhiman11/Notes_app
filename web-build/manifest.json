@@ -1,0 +1,39 @@
+{
+  "background_color": "#176fc1",
+  "description": "ybhyb",
+  "display": "standalone",
+  "lang": "en",
+  "name": "MGS NOTES",
+  "short_name": "MGS NOTES",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait",
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "com.marjane.mgsnotes"
+    },
+    {
+      "platform": "play",
+      "url": "http://play.google.com/store/apps/details?id=com.marjane.mgsnotes",
+      "id": "com.marjane.mgsnotes"
+    }
+  ],
+  "prefer_related_applications": true,
+  "icons": [
+    {
+      "src": "\\pwa\\chrome-icon\\chrome-icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "\\pwa\\chrome-icon\\chrome-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "\\pwa\\chrome-icon\\chrome-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
